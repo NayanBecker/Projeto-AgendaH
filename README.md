@@ -19,7 +19,7 @@
     </p>
     <pre>
 <code>
-CREATE TABLE `tdah_databasemant`.`Conta`(
+CREATE TABLE `tdah_databasemant`.`Usuario`(
   `idUsuario` INT NOT NULL auto_increment,
   `nomeConta` VARCHAR(45) NOT NULL,
   `emailConta` VARCHAR(45) NOT NULL,
@@ -32,7 +32,7 @@ CREATE TABLE `tdah_databasemant`.`Conta`(
 </code>
     </pre>
 
-    <h3>Tabela <code>Perfil</code></h3>
+  <h3>Tabela <code>Perfil</code></h3>
   <p>
         A tabela <code>Perfil</code> armazena informações sobre os diferentes perfis associados a cada conta. Um perfil pode 
         ser de tipo <code>Criança</code> ou <code>Responsável</code>, e está vinculado a um usuário específico 
@@ -50,7 +50,7 @@ CREATE TABLE `tdah_databasemant`.`Perfil` (
   INDEX `fk_Perfil_Usuario_idx` (`Usuario_idUsuario`),
   CONSTRAINT `fk_Perfil_Usuario`
     FOREIGN KEY (`Usuario_idUsuario`)
-    REFERENCES `tdah_databasemant`.`Conta` (`idUsuario`)
+    REFERENCES `tdah_databasemant`.`Usuario` (`idUsuario`)
 );
 </code>
     </pre>
