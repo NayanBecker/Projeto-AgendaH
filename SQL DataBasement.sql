@@ -1,4 +1,4 @@
-CREATE TABLE `tdah_databasemant`.`Conta`(
+CREATE TABLE `tdah_databasemant`.`Usuario`(
   `idUsuario` INT NULL auto_increment,
   `nomeConta` VARCHAR(45) NOT NULL,
   `emailConta` VARCHAR(45) NOT NULL,
@@ -19,7 +19,7 @@ CREATE TABLE `tdah_databasemant`.`Perfil` (
   
   CONSTRAINT `fk_Perfil_Usuario`
     FOREIGN KEY (`Usuario_idUsuario`)
-    REFERENCES `tdah_databasemant`.`Conta` (`idUsuario`)
+    REFERENCES `tdah_databasemant`.`Usuario` (`idUsuario`)
     );
     
 CREATE TABLE `tdah_databasemant`.`Notificacao` (
