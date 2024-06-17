@@ -20,7 +20,7 @@
     <pre>
 <code>
 CREATE TABLE `tdah_databasemant`.`Conta`(
-  `idUsuario` INT NULL auto_increment,
+  `idUsuario` INT NOT NULL auto_increment,
   `nomeConta` VARCHAR(45) NOT NULL,
   `emailConta` VARCHAR(45) NOT NULL,
   `senhaConta` VARCHAR(100) NOT NULL,
