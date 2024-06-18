@@ -5,7 +5,7 @@
 [PROPOSITO.pdf](https://github.com/user-attachments/files/15754520/PROPOSITO.pdf)
 
 <object data="https://github.com/user-attachments/files/15686870/Status.Report.1.02-05.pdf" type="application/pdf" width="100%" height="600px">
-    <p>Por favor, <a href="https://github.com/user-attachments/files/15754520/PROPOSITO.pdf">clique aqui para baixar o PDF.</a></p>
+    <p><a href="https://github.com/user-attachments/files/15754520/PROPOSITO.pdf">clique aqui para baixar o PDF.</a></p>
 </object>
 
 #
