@@ -45,33 +45,6 @@ criar uma experiência de organização mais eficiente e menos estressante para 
 responsáveis.
 #
 
-
-## Desenvolvimento
- **AgendaH** é uma aplicação de gerenciamento de tarefas e compromissos projetada 
-especificamente para crianças com Transtorno de Déficit de Atenção e Hiperatividade (TDAH). 
-Nosso principal objetivo é facilitar a descoberta do potencial dessas crianças, impactando 
-positivamente suas vidas e a de suas famílias. A interface da aplicação sera projetada para ser 
-colorida e intuitiva, garantindo que as crianças possam navegar com facilidade e se sintam 
-engajadas ao utilizá-la. Cada tarefa ou compromisso será apresentada de forma visual, com 
-ícones e animações que ajudam a manter a atenção dos pequenos usuários. Além disso, a 
-aplicação oferece recompensas e incentivos, como pontos e medalhas, para motivar as crianças 
-a completarem suas tarefas diárias.
-
- Os pais e responsáveis têm acesso a um painel de controle onde podem monitorar o progresso 
-dos filhos, ajustar as atividades conforme necessário e receber sugestões personalizadas 
-baseadas no desempenho das crianças. Também oferecemos recursos educacionais para os 
-pais, como artigos e vídeos sobre estratégias de manejo de TDAH, para que possam apoiar 
-ainda mais o desenvolvimento de seus filhos. 
-
- Para as crianças, a aplicação se transforma em um espaço seguro e divertido onde elas podem 
-aprender a organizar suas rotinas, desenvolver habilidades de autonomia e responsabilidade, e, 
-acima de tudo, descobrir que são capazes de realizar muito mais do que imaginam.
-
-#
-
-
-
-
 # Status Report
 
 ## Status Report 02/05
