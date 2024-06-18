@@ -1,4 +1,19 @@
- # Seja bem vindo ao Projeto-AgendaH wiki!
+# Seja bem vindo ao Projeto-AgendaH wiki!
+
+## Proposito
+![PROPOSITO](https://github.com/NayanBecker/Projeto-AgendaH/assets/146502117/61755e59-c7e5-44b9-9f02-9567c93d1e7c)
+[PROPOSITO.pdf](https://github.com/user-attachments/files/15754520/PROPOSITO.pdf)
+
+<object data="https://github.com/user-attachments/files/15686870/Status.Report.1.02-05.pdf" type="application/pdf" width="100%" height="600px">
+    <p>Por favor, <a href="https://github.com/user-attachments/files/15754520/PROPOSITO.pdf">clique aqui para baixar o PDF.</a></p>
+</object>
+
+#
+
+# Logo
+
+![Logotipo](https://github.com/NayanBecker/Projeto-AgendaH/assets/146502117/50446239-3def-4e58-a76e-62f1a800b6ee)
+#
 
 ## Introdução
 
@@ -28,19 +43,34 @@ organizar suas tarefas diárias, configurar lembretes personalizados e acompanha
 progresso. Com notificações constantes e uma abordagem centrada no usuário, a AgendaH visa 
 criar uma experiência de organização mais eficiente e menos estressante para crianças e seus 
 responsáveis.
+#
+
+
+## Desenvolvimento
+ **AgendaH** é uma aplicação de gerenciamento de tarefas e compromissos projetada 
+especificamente para crianças com Transtorno de Déficit de Atenção e Hiperatividade (TDAH). 
+Nosso principal objetivo é facilitar a descoberta do potencial dessas crianças, impactando 
+positivamente suas vidas e a de suas famílias. A interface da aplicação sera projetada para ser 
+colorida e intuitiva, garantindo que as crianças possam navegar com facilidade e se sintam 
+engajadas ao utilizá-la. Cada tarefa ou compromisso será apresentada de forma visual, com 
+ícones e animações que ajudam a manter a atenção dos pequenos usuários. Além disso, a 
+aplicação oferece recompensas e incentivos, como pontos e medalhas, para motivar as crianças 
+a completarem suas tarefas diárias.
+
+ Os pais e responsáveis têm acesso a um painel de controle onde podem monitorar o progresso 
+dos filhos, ajustar as atividades conforme necessário e receber sugestões personalizadas 
+baseadas no desempenho das crianças. Também oferecemos recursos educacionais para os 
+pais, como artigos e vídeos sobre estratégias de manejo de TDAH, para que possam apoiar 
+ainda mais o desenvolvimento de seus filhos. 
+
+ Para as crianças, a aplicação se transforma em um espaço seguro e divertido onde elas podem 
+aprender a organizar suas rotinas, desenvolver habilidades de autonomia e responsabilidade, e, 
+acima de tudo, descobrir que são capazes de realizar muito mais do que imaginam.
 
 #
-***
 
-![Logotipo](https://github.com/NayanBecker/Projeto-AgendaH/assets/146502117/50446239-3def-4e58-a76e-62f1a800b6ee)
 
-## Proposito
-![PROPOSITO](https://github.com/NayanBecker/Projeto-AgendaH/assets/146502117/61755e59-c7e5-44b9-9f02-9567c93d1e7c)
-[PROPOSITO.pdf](https://github.com/user-attachments/files/15754520/PROPOSITO.pdf)
 
-<object data="https://github.com/user-attachments/files/15686870/Status.Report.1.02-05.pdf" type="application/pdf" width="100%" height="600px">
-    <p>Por favor, <a href="https://github.com/user-attachments/files/15754520/PROPOSITO.pdf">clique aqui para baixar o PDF.</a></p>
-</object>
 
 # Status Report
 
