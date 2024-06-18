@@ -44,21 +44,3 @@ progresso. Com notificações constantes e uma abordagem centrada no usuário, a
 criar uma experiência de organização mais eficiente e menos estressante para crianças e seus 
 responsáveis.
 #
-
-# Status Report
-
-## Status Report 02/05
-[Status Report 1 02-05.pdf](https://github.com/user-attachments/files/15686870/Status.Report.1.02-05.pdf)
-
-<object data="https://github.com/user-attachments/files/15686870/Status.Report.1.02-05.pdf" type="application/pdf" width="100%" height="600px">
-    <p>Por favor, <a href="https://github.com/user-attachments/files/15686870/Status.Report.1.02-05.pdf">clique aqui para baixar o PDF.</a></p>
-</object>
-
-## Status Report 06/06
-[Status Report 06-06.pdf](https://github.com/user-attachments/files/15754502/Status.Report.06-06.pdf)
-
-<object data="https://github.com/user-attachments/files/15754502/Status.Report.06-06.pdf" type="application/pdf" width="100%" height="600px">
-    <p>Por favor, <a href="https://github.com/user-attachments/files/15754502/Status.Report.06-06.pdf">clique aqui para baixar o PDF.</a></p>
-</object>
-
-
