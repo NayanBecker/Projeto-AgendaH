@@ -1,4 +1,4 @@
-# Seja bem vindo ao Projeto-AgendaH wiki!
+# Seja bem vindo ao Projeto-AgendaH!
 
 ## Proposito
 ![PROPOSITO](https://github.com/NayanBecker/Projeto-AgendaH/assets/146502117/61755e59-c7e5-44b9-9f02-9567c93d1e7c)
